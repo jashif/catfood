@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-catfood-staging-124135-authRole",
+      "UnauthRoleArn": "arn:aws:iam::571336153237:role/amplify-catfood-staging-124135-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::571336153237:role/amplify-catfood-staging-124135-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-catfood-staging-124135-deployment",
+      "UnauthRoleName": "amplify-catfood-staging-124135-unauthRole",
+      "StackName": "amplify-catfood-staging-124135",
+      "StackId": "arn:aws:cloudformation:us-east-1:571336153237:stack/amplify-catfood-staging-124135/94a78c20-2abc-11ed-a47d-1215d34fc75b",
+      "AmplifyAppId": "d9usrhky76by0"
+    }
+  }
+}
